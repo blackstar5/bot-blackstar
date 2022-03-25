@@ -282,3 +282,12 @@
 خی کاس
 گی زن
 گیخوار
+https://rubika.ir/joing/
+https://rubika.ir
+@user
+rubika.ir
+@
+@
+https://
+htpps://
+http:/
