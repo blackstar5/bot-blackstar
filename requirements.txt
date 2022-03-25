@@ -1,3 +1,4 @@
-rubika
-mutagen
-gtts
+requests
+tqdm
+pycryptodome
+urllib3
