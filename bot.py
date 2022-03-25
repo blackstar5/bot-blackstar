@@ -688,7 +688,7 @@ while(2 > 1):
                             if text == 'روشن':
                                 print('message geted and sinned')
                                 try:
-                                    bot.sendMessage(chat['object_guid'], 'سلام \n به  بلک استار بات خوش آمدید ❤\n\n لطفا جهت راهنما \n!help \nرا ارسال کنید',chat['last_message']['message_id'])
+                                    bot.sendMessage(chat['object_guid'], 'سلام \n به  بلک استار بات خوش آمدید ❤\n\n لطفا جهت راهنما \n!دستورات \nرا ارسال کنید',chat['last_message']['message_id'])
                                     print('sended response')    
                                 except:
                                     print('server bug1')
