@@ -841,7 +841,7 @@ while(2 > 1):
                             elif text.startswith('font'):
                                 tawd34 = Thread(target=get_font_fa, args=(text, chat, bot,))
                                 tawd34.start()
-                            elif text.startswith('ویس):
+                            elif text.startswith('ویس'):
                                 tawd19 = Thread(target=get_whois, args=(text, chat, bot,))
                                 tawd19.start()
                             elif text.startswith('واج'):
