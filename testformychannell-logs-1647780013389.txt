@@ -1,6 +1,0 @@
-2022-03-19T17:25:02.359140+00:00 app[api]: Release v1 created by user rubikablackstar@gmail.com
-2022-03-19T17:25:02.359140+00:00 app[api]: Initial release by user rubikablackstar@gmail.com
-2022-03-19T17:25:02.535130+00:00 app[api]: Enable Logplex by user rubikablackstar@gmail.com
-2022-03-19T17:25:02.535130+00:00 app[api]: Release v2 created by user rubikablackstar@gmail.com
-2022-03-20T04:07:35.783200+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=testformychannell.herokuapp.com request_id=9a008f06-e401-4750-ab49-f72f786cca88 fwd="192.99.245.220" dyno= connect= service= status=502 bytes= protocol=https
-2022-03-20T04:07:36.645953+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=testformychannell.herokuapp.com request_id=2d1e0c84-62f0-4573-ac22-f4d5ec380f41 fwd="192.99.245.220" dyno= connect= service= status=502 bytes= protocol=https
