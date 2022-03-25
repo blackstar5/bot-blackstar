@@ -86,7 +86,7 @@ while True:
 							except:
 								print("err off bot")
 								
-						elif msg.get("text") == "!restart" or msg.get("text") == "/restart" and msg.get("author_object_guid") in admins :
+						elif msg.get("text") == "!restart" or msg.get("text") == "روشن" and msg.get("author_object_guid") in admins :
 							try:
 								sleeped = True
 								bot.sendMessage(target, "در حال راه اندازی مجدد...", message_id=msg.get("message_id"))
